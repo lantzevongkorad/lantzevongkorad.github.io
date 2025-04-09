@@ -1,4 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow: /static/
+Allow: /
 
 Sitemap: https://lantzevongkorad.github.io/sitemap.xml
